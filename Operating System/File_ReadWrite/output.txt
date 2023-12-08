@@ -1,0 +1,10 @@
+Many servers and security tools use Linux. Learn how to use the Linux operating system, a critical skill in cyber security.
+Linux is one of the major operating systems and is heavily used in organisations all around the world. Learning how to use Linux is a core competency and will help you in your hacking journey not to just use Linux-based security tools, but how to use and exploit the operating system. This module will focus on getting you comfortable using Linux.
+Professionalism
+IIT's primary vision is to plant the seed of professionalism amongst its students to ensure they lead a successful life. IIT firmly believes that people who act professionally, encourage their colleagues and friends to conduct themselves in a manner that supports success.
+
+Excellence
+The students of IIT are taught not to leave their performance at existing levels, but take it many steps higher. IIT strongly motivates its students to go that extra mile through learning new skills and improving existing ones, a trait that can only be achieved by striving for excellence.
+
+Respect
+The students of IIT should be friendly to each other through sharing a positive viewpoint where they should value others. Students in IIT do not impose their own will and never hesitate to take advice of others, a trait they have gained through showing and earning respect.
